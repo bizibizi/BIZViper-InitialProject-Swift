@@ -1,6 +1,6 @@
 # BIZViper-InitialProject-Swift
 
-BIZViper-InitialProject-Swift is clear project which shows VIPER arhitecture and strucure in Swift. 
+BIZViper-InitialProject-Swift is clear project which shows VIPER structure in Swift. 
 
 
 # Contact
